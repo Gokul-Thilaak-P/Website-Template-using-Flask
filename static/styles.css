@@ -1,0 +1,152 @@
+/*font-family: 'Bree Serif', serif;
+font-family: 'Courgette', cursive;*/
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    color: #e9896a;
+    font-family: 'Courgette', cursive;
+    font-size: 4rem;
+}
+
+h2 {
+    color: #e9896a;
+    font-family: 'Bree Serif', serif;
+    font-size: 1.75rem;
+}
+
+h3 {
+    color: #e2703a;
+    margin-top: 0px;
+    font-family: 'Courgette', cursive;
+    text-align: left;
+}
+
+hr {
+    border: none;
+    border-bottom: dotted 6px;
+    color: #282b2b;
+    width: 10%;
+}
+
+p {
+    color: #40514E;
+    font-family: 'Bree Serif', serif
+    line-height: 2;
+    text-align: left;
+}
+
+.bottom-container {
+    background-color: #e9896a;
+    padding: 10px;
+}
+
+.copyright {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.GamingPic {
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.middle-container {
+/*    background-color: #bbf2b8;*/
+    padding: 10px;
+}
+
+.PgtInfo {
+    color: #e9896a;
+    font-family: 'Bree Serif', serif;
+    font-size: 1.75rem;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.ProfilePic {
+    border-radius: 100%;
+    margin-top: 10px;
+}
+
+.profile {
+    margin: auto;
+    width: 50%;
+}
+
+.ProgrammingPic {
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row, .contact-me {
+    margin: 110px auto;
+    width: 50%;
+}
+
+.top-container {
+    background-color: #ffe5b9;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.first-skill {
+    margin-top: 50px;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Trebuchet MS;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #e9896a;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #e9896a 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 25px
+}
+
+.btn:hover {
+   background: #eda791;
+   border: solid #eda791 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+.footer-link {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFE5B9;
+   font-family: Trebuchet MS;
+   font-size: 20px;
+   font-weight: 100;
+   background-color: #E9896A;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   padding: 0px 20px
+}
+
+.footer-link:hover {
+    color: #D57120;
+}
